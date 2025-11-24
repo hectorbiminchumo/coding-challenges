@@ -1,5 +1,5 @@
 
-# LeetCode Solutions
+# Coding Challenges Solutions
 
 My collection of coding challenges solutions. Practicing daily to improve my problem-solving and algorithmic thinking skills.
 
