@@ -36,5 +36,3 @@ const SearchMatrix = (matrix, target) => {
 
 
 }
-
-console.log(SearchMatrix(matrix,5))
