@@ -53,5 +53,3 @@ Run from the problem folder:
 cd arrays/medium/053-MaxSubArray
 node MaxSubArray.js
 ```
-
-this is a test
